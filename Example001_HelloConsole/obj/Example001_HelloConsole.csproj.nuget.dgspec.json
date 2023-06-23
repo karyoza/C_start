@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Учеба\\C_start\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {}
+    "d:\\Учеба\\C_start\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {}
   },
   "projects": {
-    "D:\\Учеба\\C_start\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {
+    "d:\\Учеба\\C_start\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Учеба\\C_start\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+        "projectUniqueName": "d:\\Учеба\\C_start\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
         "projectName": "Example001_HelloConsole",
-        "projectPath": "D:\\Учеба\\C_start\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+        "projectPath": "d:\\Учеба\\C_start\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
         "packagesPath": "C:\\Users\\d16\\.nuget\\packages\\",
-        "outputPath": "D:\\Учеба\\C_start\\Example001_HelloConsole\\obj\\",
+        "outputPath": "d:\\Учеба\\C_start\\Example001_HelloConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\d16\\AppData\\Roaming\\NuGet\\NuGet.Config"
